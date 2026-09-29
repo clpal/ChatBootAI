@@ -12,6 +12,6 @@ public class GlobalExceptionHandler {
     public ResponseEntity<String> handleMaxSize(MaxUploadSizeExceededException ex) {
         return ResponseEntity
                 .badRequest()
-                .body("PDF size exceeds the allowed limit.");
+                .body("PDF size exceeds the allowed limit...");
     }
 }
