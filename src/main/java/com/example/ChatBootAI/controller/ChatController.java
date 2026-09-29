@@ -1,6 +1,4 @@
 package com.example.ChatBootAI.controller;
-
-
 import com.example.ChatBootAI.model.ChatRequest;
 import com.example.ChatBootAI.service.ChatService;
 import org.springframework.web.bind.annotation.*;
