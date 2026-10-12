@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://database-aichat.c3asu8gagnn3.ap-southeast-2.rds.amazonaws.com:5432/postgres
+    username: postgres
+    password: rds!db-eab36d66-ba93-4ab7-94fa-b3fdce88f132-uwtGaM
