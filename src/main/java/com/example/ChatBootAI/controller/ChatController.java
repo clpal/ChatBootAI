@@ -9,6 +9,7 @@ public class ChatController {
 
     private final ChatService chatService;
 
+
     public ChatController(ChatService chatService) {
         this.chatService = chatService;
     }
